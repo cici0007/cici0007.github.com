@@ -1,7 +1,7 @@
-# cici0007.github.io
+# cici0007.github.com
 
 personal homepage of cici0007 :relaxed:
 
-[English Version](https://cici0007.github.io/README-EN.html)
+[English Version](https://cici0007.github.com/README-EN.html)
 
-[中文版](https://cici0007.github.io/README-CN.html)
+[中文版](https://cici0007.github.com/README-CN.html)
