@@ -1,7 +1,7 @@
-# cici0007.github.io
+# cici0007.github.com
 
 personal homepage of cici0007
-[Chinese Version](README-CN.MD)
+[中文版](README-CN.MD)
 
 ## Infomation
 
