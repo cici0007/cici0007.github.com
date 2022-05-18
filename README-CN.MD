@@ -1,6 +1,6 @@
 # cici0007.github.com
 cici0007的个人主页
-[英文版](README-EN.MD)
+[English](README-EN.MD)
 
 ## 个人信息
 
