@@ -1,6 +1,6 @@
 # cici0007.github.io
 
-personal homepage of cici0007
+personal homepage of cici0007 :relaxed:
 
 [English Version](https://cici0007.github.io/README-EN.html)
 
