@@ -2,11 +2,6 @@
 
 personal homepage of cici0007
 
-## Infomation
+[English Version](https://cici0007.github.io/README-EN.html)
 
-
-## Education
-
-
-## Expirence
-
+[中文版](https://cici0007.github.io/README-CN.html)
