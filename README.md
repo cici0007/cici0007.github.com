@@ -11,6 +11,7 @@ personal homepage of cici0007 :relaxed:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: absorbed in coding
 
+![cici0007](https://github-profile-trophy.vercel.app/?username=cici0007)
 
 ![cici0007](https://komarev.com/ghpvc/?username=cici0007&color=FF00FF)
 
