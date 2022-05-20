@@ -12,6 +12,6 @@ personal homepage of cici0007 :relaxed:
 - ⚡ Fun fact: absorbed in coding
 
 
-![cici0007](https://komarev.com/ghpvc/?cici0007&color=magenta)
+![cici0007](https://komarev.com/ghpvc/?username=cici0007&color=magenta)
 
-[cici0007's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=cici0007&show_icons=true&count_private=true&theme=gotham)
+![cici0007's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=cici0007&show_icons=true&count_private=true&theme=gotham)
