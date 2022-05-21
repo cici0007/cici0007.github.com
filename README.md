@@ -22,6 +22,8 @@ personal homepage of cici0007 :relaxed:
 
 ![cici0007](https://komarev.com/ghpvc/?username=cici0007&color=FF00FF)
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=cici0007)]()
+![c++](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+![cici0007's GitHub data](https://github-readme-stats.vercel.app/api?username=cici0007)
 
 ![cici0007's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=cici0007&show_icons=true&count_private=true&theme=gotham)
