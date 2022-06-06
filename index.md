@@ -1,5 +1,13 @@
 # cici0007.github.io
 
-[English Version](https://cici0007.github.io/README-EN.html)
+## myself
 
-[中文版](https://cici0007.github.io/README-CN.html)
+[English Version](docs/myself/myself-en.md)
+
+[中文版](docs/myself/myself-cn.md)
+
+## notes
+
+[bookmark](docs/notes/bookmark.html)
+
+[cycloid](docs/notes/cycloid.md)
