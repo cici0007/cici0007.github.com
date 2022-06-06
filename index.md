@@ -11,3 +11,9 @@
 [bookmark](docs/notes/bookmark.html)
 
 [cycloid](docs/notes/cycloid.md)
+
+## links 🔗
+
+[homepage](https://cici0007.github.io)
+
+[LoveTree](https://cici0007.github.io/LoveTree/)
