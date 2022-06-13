@@ -18,16 +18,16 @@ int main()
         path,
         //GENERIC_READ|GENERIC_WRITE,        
         //FILE_GENERIC_READ|FILE_GENERIC_WRITE,
-        FILE_WRTIE_ATTRIBUTE,//dedired write file attribute only
+        FILE_WRTIE_ATTRIBUTE,//desired write file attribute only
         NULL,NULL,OPEN_EXISTING,//open existing file only
         FILE_ATTRIBUTE_NORMAL,
         NULL);
-    if (INVALID_HANDLE_VALUE==)
+    if (hFile==INVALID_HANDLE_VALUE)
     {
         DWORD err = GetLastError();
         //balabala
     }
-    SetFileTime(hFile,&ft,&ft,&ft1);
+    SetFileTime(hFile,&ft,&ft,&ft);
     CloseHandle(hFile);
     
     return 0;
